@@ -1,3 +1,2 @@
 # HTML-Email-Project
-![My Image](HTML Email Template Desktop.png)
-![My Image](HTML Email Template Mobile.png)
+<img src="HTML Email Template Desktop.png" alt="" width="" height="" />
